@@ -6,3 +6,4 @@ https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/chatgpt-im-unternehmen.htm
 https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/ki-richtlinie-unternehmen.html
 https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/ki-schulung-mitarbeiter.html
 https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/prompt-formel.html
+https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/copilot-im-unternehmen.html
