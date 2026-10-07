@@ -7,3 +7,4 @@ https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/ki-richtlinie-unternehmen.
 https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/ki-schulung-mitarbeiter.html
 https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/prompt-formel.html
 https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/copilot-im-unternehmen.html
+https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/ki-halluzinationen.html
