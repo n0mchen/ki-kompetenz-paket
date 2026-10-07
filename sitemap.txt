@@ -10,3 +10,5 @@ https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/copilot-im-unternehmen.htm
 https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/ki-halluzinationen.html
 https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/ki-tools-fuer-unternehmen.html
 https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/chatgpt-excel.html
+https://n0mchen.github.io/ki-kompetenz-paket/bewerbung-mit-ki.html
+https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/bewerbung-mit-ki-schreiben.html
