@@ -4,3 +4,4 @@ https://n0mchen.github.io/ki-kompetenz-paket/prompt-paket.html
 https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/chatgpt-prompts-deutsch.html
 https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/chatgpt-im-unternehmen.html
 https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/ki-richtlinie-unternehmen.html
+https://n0mchen.github.io/ki-kompetenz-paket/ratgeber/ki-schulung-mitarbeiter.html
